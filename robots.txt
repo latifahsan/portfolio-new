@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://latifahsan.vercel.app/sitemap.xml
+Sitemap: https://latifahsan.my.id/sitemap.xml
